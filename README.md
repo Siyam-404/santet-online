@@ -11,7 +11,7 @@ Peringatan: Untuk kerusakan yang ditimbulkan karena penggunaan dari alat ini buk
 
 #### Installation and Using santet-online
 ```bash
-git clone https://github.com/Gameye98/santet-online
+git clone https://github.com/Siyam-404/santet-online.git
 cd santet-online
 python -m pip install -r requirements.txt
 python santet.py
